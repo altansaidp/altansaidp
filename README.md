@@ -3,9 +3,9 @@
 I'm a full-stack developer from Canada, and I'll admit it: I'm a bit AI-addicted.
 I build with Claude Code, Codex and a handful of agents every day, and they're the reason I can take a product from idea to real users on my own.
 What I care about hasn't changed, though: building things that fix a real problem for someone and seeing them all the way through.
-Most of my work is in TypeScript and React, and lately a fair bit of Swift.
+Most of my work is in TypeScript, React and Python, and lately a fair bit of Swift.
 
-[Resume (PDF)](https://saidaltan.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/altansaid) · [Portfolio](https://saidaltan.com) · [altansaid13@outlook.com](mailto:altansaid13@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/altansaid) · [Portfolio](https://saidaltan.com) · [altansaid13@outlook.com](mailto:altansaid13@outlook.com)
 
 ### Projects I'm proud of
 
