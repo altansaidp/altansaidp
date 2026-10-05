@@ -1,7 +1,8 @@
 ### Hi, I'm Said 👋
 
-I'm a full-stack developer from Canada.
-I like building things that fix a real problem for someone, and I try to take them all the way to the point where people actually use them.
+I'm a full-stack developer from Canada, and I'll admit it: I'm a bit AI-addicted.
+I build with Claude Code, Codex and a handful of agents every day, and they're the reason I can take a product from idea to real users on my own.
+What I care about hasn't changed, though: building things that fix a real problem for someone and seeing them all the way through.
 Most of my work is in TypeScript and React, and lately a fair bit of Swift.
 
 [Resume (PDF)](https://saidaltan.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/altansaid) · [Portfolio](https://saidaltan.com) · [altansaid13@outlook.com](mailto:altansaid13@outlook.com)
@@ -16,7 +17,7 @@ Most of my work is in TypeScript and React, and lately a fair bit of Swift.
       A Mac app that puts my AI coding agents in the MacBook notch.
       When Claude Code, Codex or another agent needs permission, has a question or finishes, I can answer it or jump straight to the right terminal tab without leaving what I'm doing.
       It's out now as a one-time purchase.<br>
-      <a href="https://crewtower.app">crewtower.app</a>
+      <a href="https://crewtower.app">crewtower.app</a> · <a href="https://youtu.be/atLNjf65_vc">Watch the intro video</a>
     </td>
   </tr>
   <tr>
